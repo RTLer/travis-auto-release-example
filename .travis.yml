@@ -17,3 +17,4 @@ deploy:
   file: file_to_release
   on:
     tags: true
+  overwrite: true
